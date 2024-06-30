@@ -44,7 +44,7 @@ The following web browsers **(except Safari)** are Chromium based and use the We
 
 ### Brave
 
-1. Download or clone this repository and save the `opera/` directory.
+1. Download or clone this repository and save the `brave/` directory.
 2. Open Brave and navigate to `brave://extensions/`.
 3. Enable "Developer mode" and click "Load unpacked".
 4. Select the Opera directory from step 1.
